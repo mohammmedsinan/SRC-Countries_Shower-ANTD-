@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.ant-card-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
