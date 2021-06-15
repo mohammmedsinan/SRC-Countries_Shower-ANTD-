@@ -1,4 +1,4 @@
-Basically this is the countries project src code u can clone it and work with it , but you have to do that before :
+Basically this is the countries project src code u can clone it and work with it , but you have to do thit before :
 
 -  make sure you did install react project by writing this in cmd 'npx create-react-app react-app' 
 -   you have to remove all files in src folder and put src folder from the project you did clone it or you can just replace the scr folder from this repo with src folder from react project
